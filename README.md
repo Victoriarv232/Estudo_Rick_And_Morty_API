@@ -23,7 +23,7 @@ O objetivo é praticar a realização de requisições HTTP (`GET`) para obter e
 ---
 
 ## Como utilizar
-# Clone o repositório
+## Clone o repositório
 ```bash
 git clone https://github.com/Victoriarv232/Estudo_Rick_And_Morty_API.git
 cd 'Estudo_Rick_And_Morty_API'
